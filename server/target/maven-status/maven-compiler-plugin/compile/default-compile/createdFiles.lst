@@ -1,0 +1,4 @@
+com\imooc\two\dubbo\server\controller\BaseController.class
+com\imooc\two\dubbo\server\service\dubbo\IDubboProductServiceImpl.class
+com\imooc\two\dubbo\server\BootMoreApplication.class
+com\imooc\two\dubbo\server\controller\ProductController.class
